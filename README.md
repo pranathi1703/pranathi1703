@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranathi1703
-- 👀 I’m interested in coding 
+- 👀 I’m interested in web technologies.
 - 🌱 I’m currently learning Full stack development.
 - 📫 How to reach me : pranathiakula35@gmail.com
 - 😄 Pronouns: ...she/her
